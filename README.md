@@ -1,4 +1,13 @@
-Determinants of Migration in Europe: A Spatial Econometric Study
+## TL;DR
+Applied spatial econometric models (SAR, SEM, SDM) in R to analyze 
+the determinants of migration across European regions. Found significant 
+spatial spillover effects — migration in one region is strongly correlated 
+with neighboring regions, and socio-economic factors have both direct 
+and indirect (neighbor-driven) impacts.
+
+![EU Migration Trends](EU%20Migration%20Trends%20(2000-2020).png)
+
+**Stack:** R · spatialreg · GeoDa · spatial statistics · Python
 
 ##  Project Overview
 This project explores the key factors influencing migration flows across European regions using spatial econometric models. We analyze regional determinants such as economic, social, and policy metrics, while accounting for spatial dependencies between neighboring regions.
