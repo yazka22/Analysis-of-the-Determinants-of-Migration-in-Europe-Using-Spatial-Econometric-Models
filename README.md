@@ -107,8 +107,8 @@ All three variables show statistically significant positive spatial autocorrelat
 ## Tech Stack
 
 - **Languages:** R, Python
-- **Spatial analysis:** GeoDa, `spatialreg`, `spdep` (R)
-- **Data manipulation:** `tidyverse`, `dplyr`, pandas
+- **Spatial analysis:** GeoDa,  `spatialreg`,  `spdep` (R)
+- **Data manipulation:** `tidyverse`,  `dplyr`, pandas
 - **Visualization:** GeoDa, ggplot2, matplotlib, seaborn
 - **Environment:** RStudio, Jupyter Notebook
 
